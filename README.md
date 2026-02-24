@@ -1,2 +1,2 @@
-# Flavor-Verificatioon
+# Flavor-Verification
 files for verifying flavor concentrates
